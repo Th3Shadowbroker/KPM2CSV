@@ -1,0 +1,13 @@
+# IDE
+.idea
+.vscode
+
+# Compiled binary
+kpm2csv
+*.exe
+
+# Etc.
+*.txt
+*.cmd
+*.bat
+*.sh
