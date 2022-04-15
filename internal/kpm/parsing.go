@@ -36,10 +36,8 @@ func ParseFile(filepath string) ([]Website, error) {
 
 		switch key {
 
-		case "Applications":
-			return websites, nil
-
 		case "Website name":
+		case "Application":
 			website.Name = value
 			break
 
