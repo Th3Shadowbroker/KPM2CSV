@@ -1,5 +1,5 @@
 # KPM2CSV
-This tiny command-line tool helps you with moving from Kaspersky Password Manager to [KeePassXC](https://keepassxc.org/), by converting the exported credentials into a CSV format.
+This tiny command-line tool helps you with moving from Kaspersky Password Manager to [KeePassXC](https://keepassxc.org/) by converting the exported credentials into a CSV format.
 
 ## How to get it?
 The latest releases can be found [here](https://github.com/Th3Shadowbroker/KPM2CSV/releases) and include a compiled binary for Windows (amd64).
