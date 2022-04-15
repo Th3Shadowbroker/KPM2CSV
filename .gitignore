@@ -11,3 +11,4 @@ kpm2csv
 *.cmd
 *.bat
 *.sh
+*.csv
